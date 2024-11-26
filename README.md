@@ -1,0 +1,2 @@
+# mani
+The c programing
